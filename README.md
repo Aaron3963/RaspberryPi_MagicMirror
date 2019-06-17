@@ -1,4 +1,10 @@
 # Magic-Mirror-with-RaspberryPi
+What it can do
+----------------------------------
+    This project is trying to imitate the magic mirror in the movie *SnowWhite*
+    The project will remain in silence when there is no one arround
+    When someone stands infront of it for some time, it will wake up and "talk" to him/her
+    When the person leaves, the mirror go back to rest
 How it works
 ----------------------------------
     System booted
