@@ -54,3 +54,7 @@ The conversation AI is used from Turing, other sources may work too.
 > 
 [URL to Turing robot]( http://www.turingapi.com/)<br />    
 
+More about:
+----------------------------------
+My email adress: **Aaron3963@163.com**
+
