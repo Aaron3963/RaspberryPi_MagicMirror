@@ -2,10 +2,13 @@
 
 Hardware:
 ----------------------------------  
-    Raspberry Pi (I am using 3B)
-    Monitor
-    Speakers
-    Webcam & microphone
+Raspberry Pi (I am using 3B)
+> 
+Monitor
+> 
+Speakers
+> 
+Webcam & microphone
 
 Software:
 ----------------------------------  
