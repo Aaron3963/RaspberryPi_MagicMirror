@@ -1,4 +1,4 @@
-# Magic-Mirror-with-RaspberryPi
+# Magic Mirror with RaspberryPi
 What it can do
 ----------------------------------
     This project is trying to imitate the magic mirror in the movie *SnowWhite*
